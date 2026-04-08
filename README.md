@@ -15,11 +15,9 @@ Durante o desenvolvimento deste projeto, foquei em aplicar os seguintes conceito
   * `PUT`: Atualização de dados existentes.
   * `DELETE`: Remoção segura de registros.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagens:** C#
 * **Bancos de Dados:** MySQL
 * **Frameworks:** ASP.NET Core
 * **Testes de API:** Swagger
-
-## ⚙️ Como executar este projeto
